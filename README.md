@@ -18,17 +18,17 @@ bash <(curl -L https://raw.githubusercontent.com/04gly/sul/main/data/Surveillanc
 ```
 
 ### B. x86_64_openvino (9.1.1-10728)
-- Link download: https://global.synologydownload.com/download/Package/spk/SurveillanceStation/9.1.1-10728/SurveillanceStation-x86_64-9.1.1-10728_openvino.spk
+- Link download: https://github.com/04gly/sul/releases/download/AA/SurveillanceStation-x86_64-9.1.1-10728.spk
 - Script:
 ```
-bash <(curl -L https://raw.githubusercontent.com/Kaitiz/Surveillance-Station/main/lib/SurveillanceStation-x86_64_openvino/install_license)
+bash <(curl -L https://raw.githubusercontent.com/04gly/sul/main/data/SurveillanceStation-x86_64_openvino/install_license)
 ```
 
 ### C. armada38x (9.0.2-10061)
-- Link download: https://global.synologydownload.com/download/Package/spk/SurveillanceStation/9.0.2-10061/SurveillanceStation-armada38x-9.0.2-10061.spk
+- Link download: update late
 - Script:
 ```
-bash <(curl -L https://raw.githubusercontent.com/Kaitiz/Surveillance-Station/main/lib/SurveillanceStation-armada38x/install_license)
+bash <(curl -L https://raw.githubusercontent.com/04gly/sul/main/data/SurveillanceStation-armada38x/install_license)
 ```
 
 ---
