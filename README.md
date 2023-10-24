@@ -11,10 +11,10 @@
 
 ---
 ### A. x86_64 (9.1.2-10854)
-- Link download: https://global.synologydownload.com/download/Package/spk/SurveillanceStation/9.1.2-10854/SurveillanceStation-x86_64-9.1.2-10854.spk
+- Link download: https://github.com/04gly/sul/releases/download/AA/SurveillanceStation-x86_64-9.1.2-10854.spk
 - Script:
 ```
-bash <(curl -L https://raw.githubusercontent.com/Kaitiz/Surveillance-Station/main/lib/SurveillanceStation-x86_64/install_license)
+bash <(curl -L https://raw.githubusercontent.com/04gly/sul/main/data/SurveillanceStation-x86_64/install_license)
 ```
 
 ### B. x86_64_openvino (9.1.1-10728)
