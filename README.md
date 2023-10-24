@@ -14,26 +14,26 @@
 - Link download: https://github.com/04gly/sul/releases/download/AA/SurveillanceStation-x86_64-9.1.2-10854.spk
 - Script:
 ```
-bash <(curl -L https://raw.githubusercontent.com/04gly/sul/main/data/SurveillanceStation-x86_64/install_license)
+bash <(curl -L https://raw.githubusercontent.com/04gly/sul/main/data/sul1-x86_64/install)
 ```
 
 ### B. x86_64_openvino (9.1.1-10728)
 - Link download: https://github.com/04gly/sul/releases/download/AA/SurveillanceStation-x86_64-9.1.1-10728.spk
 - Script:
 ```
-bash <(curl -L https://raw.githubusercontent.com/04gly/sul/main/data/SurveillanceStation-x86_64_openvino/install_license)
+bash <(curl -L https://raw.githubusercontent.com/04gly/sul/main/data/sul2-x86_64/install)
 ```
 
 ### C. armada38x (9.0.2-10061)
 - Link download: update late
 - Script:
 ```
-bash <(curl -L https://raw.githubusercontent.com/04gly/sul/main/data/SurveillanceStation-armada38x/install_license)
+bash <(curl -L https://raw.githubusercontent.com/04gly/sul/main/data/sul3-x86_x64/install)
 ```
 
 ---
-### Remove license
+### Gỡ kích hoạt
 - Script:
 ```
-bash <(curl -L https://raw.githubusercontent.com/Kaitiz/Surveillance-Station/main/lib/license/remove_license)
+bash <(curl -L https://raw.githubusercontent.com/04gly/sul/main/data/license/uninstall)
 ```
