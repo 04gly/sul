@@ -1,11 +1,13 @@
 ---
 ### Chạy Task Scheduler
+- B1
 - Control Panel -> Task Scheduler
+-B2
 - Create -> Scheduled Task -> User-defined script
-- General: User = root, uncheck Enable
+- General: User = root, bỏ tik mục Enable
+-B3
 - Task Settings: User-defined script = ...
-- Nhấn run
-- Xoá task này nếu đã activate thành công
+- Vào xem đã có 58 listenes thì xoá task này đi
 
 ---
 ### A. x86_64 (9.1.2-10854)
