@@ -4,7 +4,6 @@
 - Create -> Scheduled Task -> User-defined script
 - General: User = root, uncheck Enable
 - Task Settings: User-defined script = ...
-- OK - OK
 - Nhấn run
 - Xoá task này nếu đã activate thành công
 
