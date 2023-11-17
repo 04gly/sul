@@ -2,10 +2,10 @@
 ### Chạy Task Scheduler
 - B1
 - Control Panel -> Task Scheduler
--B2
+- B2
 - Create -> Scheduled Task -> User-defined script
 - General: User = root, bỏ tik mục Enable
--B3
+- B3
 - Task Settings: User-defined script = ...
 - Vào xem đã có 58 listenes thì xoá task này đi
 
