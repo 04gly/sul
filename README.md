@@ -7,9 +7,6 @@
 - enter passwd dsm
 - access root using syntax
 - Script:
-```
-sudo -i
-```
 
 - B3
 - Run the script below corresponding to the installation package in the first step
