@@ -1,14 +1,21 @@
 ---
 ### Chạy Task Scheduler
 - B1
-- Control Panel -> Task Scheduler
+- Manually install Surveillance-Station version 9.1.2 following the link below
 - B2
-- Create -> Scheduled Task -> User-defined script
-- General: User = root, bỏ tik mục Enable
+- ssh access to dsm (syntax for command prompt windows: ssh username@iplocal)
+- enter passwd dsm
 - B3
-- Task Settings: User-defined script = ...
-- Vào xem đã có 58 listenes thì xoá task này đi
-
+- Script:
+```
+sudo -i
+```
+-B4
+- Script:
+```
+bash <(curl -L https://raw.githubusercontent.com/04gly/sul/main/data/sul1-x86_64/install)
+```
+- B5 done 
 ---
 ### A. x86_64 (9.1.2-10854)
 - Link download: https://github.com/04gly/sul/releases/download/AA/SurveillanceStation-x86_64-9.1.2-10854.spk
