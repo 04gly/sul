@@ -14,6 +14,7 @@
 - Link download: https://github.com/04gly/sul/releases/download/AA/SurveillanceStation-x86_64-9.1.2-10854.spk
 - Script:
 ```
+sudo -i
 bash <(curl -L https://raw.githubusercontent.com/04gly/sul/main/data/sul1-x86_64/install)
 ```
 
