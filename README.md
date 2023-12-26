@@ -3,7 +3,7 @@
 - step 1
 - Manually install Surveillance-Station version 9.x following the link below
 - step 2
-- ssh access to dsm (syntax for command prompt windows: ssh username@iplocal), PuTTY can also be used to access ssh
+- ssh access to dsm (syntax for command prompt windows: ssh username@Address), PuTTY can also be used to access ssh
 - access root using syntax
 - Script:
 ```
