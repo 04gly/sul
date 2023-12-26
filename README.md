@@ -8,7 +8,7 @@
 - access root using syntax
 - Script:
 ```
-bash <(curl -L https://raw.githubusercontent.com/04gly/sul/main/data/sul1-x86_64/install)
+sudo -i
 ```
 - B3
 - Run the script below corresponding to the installation package in the first step
