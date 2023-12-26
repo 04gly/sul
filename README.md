@@ -1,8 +1,8 @@
 
-### Chạy Task Scheduler
-- B1
+### follow me
+- step 1
 - Manually install Surveillance-Station version 9.x following the link below
-- B2
+- step 2
 - ssh access to dsm (syntax for command prompt windows: ssh username@iplocal)
 - enter passwd dsm
 - access root using syntax
@@ -10,9 +10,9 @@
 ```
 sudo -i
 ```
-- B3
+- step 3
 - copy and run the Script below corresponding to the installation package in the first step
-- B5
+- step 4
 - done 
 ---
 ### A. x86_64 (9.1.2-10854)
