@@ -29,8 +29,8 @@ bash <(curl -L https://raw.githubusercontent.com/04gly/sul/main/data/sul2-x86_64
 ```
 
 ### C.Cho arm (9.0.2-10061)
-- Link download: [
-](https://github.com/04gly/sul/releases/download/AA/SurveillanceStation-arm-9.0.2.spk)- Script:
+- Link download: https://github.com/04gly/sul/releases/download/AA/SurveillanceStation-arm-9.0.2.spk
+- Script:
 ```
 bash <(curl -L https://raw.githubusercontent.com/04gly/sul/main/data/sul3-x86_x64/install)
 ```
