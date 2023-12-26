@@ -13,7 +13,7 @@ sudo -i
 - step 3
 - copy and run the Script below corresponding to the installation package in the first step
 - step 4
-- done 
+- Checked 58 licenses appeared
 ---
 ### A. x86_64 (9.1.2-10854)
 - Link download: https://github.com/04gly/sul/releases/download/AA/SurveillanceStation-x86_64-9.1.2-10854.spk
