@@ -6,7 +6,7 @@
 - ssh access to dsm (syntax for command prompt windows: ssh username@iplocal)
 - enter passwd dsm
 - B3
--Run the script below corresponding to the installation package in the first step
+- Run the script below corresponding to the installation package in the first step
 - B5
 - done 
 ---
